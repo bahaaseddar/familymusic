@@ -1,0 +1,6 @@
+owner=529016508622438402
+prefix=$
+game=Family | $play
+stayinchannel=true
+songinstatus=false
+token=NTkwOTM1MzAxMDA2ODE5MzM4.XQpd2Q.A9GBfuEYrBdV_LwAYm3MnKeC7u0
